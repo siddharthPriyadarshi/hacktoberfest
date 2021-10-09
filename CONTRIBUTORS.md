@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Siddharth Priyadarshi](https://github.com/siddharthPriyadarshi)
+-Place: Odissa, India
+-Bio: Pursuing B.Tech
+-Github: [siddharth](https://github.com/siddharthPriyadarshi)
